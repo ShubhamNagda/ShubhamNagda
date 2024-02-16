@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamnagda" alt="shubhamnagda" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [shubhamnagda.ml](shubham-nagda.pages.dev)
+- 👨‍💻 All of my projects are available at [shubhamnagda.pages.dev](shubham-nagda.pages.dev)
 
 - 💬 Ask me about **cpp , javascript , python**
 
