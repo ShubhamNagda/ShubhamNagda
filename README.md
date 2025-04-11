@@ -26,7 +26,7 @@ Feel free to reach out and connect! I'm always happy to collaborate or discuss e
 
 - **LinkedIn**: [Shubham Nagda](https://linkedin.com/in/shubham-nagda-724b7b234)
 - **Twitter**: [@ShubhamNagda](https://twitter.com/Shubham_Nagda01)
-- **Blog**: [My Tech Blog](https://shubhamnagda.github.dev)
+- **Blog**: [My Tech Blog](https://shubhamnagda.github.io)
 
 ---
 
