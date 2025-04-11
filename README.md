@@ -29,11 +29,11 @@ Feel free to reach out and connect! I'm always happy to collaborate or discuss e
 - **Blog**: [My Tech Blog](https://shubhamnagda.github.io)
 
 ---
-
+<!--
 ## 🌟 Highlighted Projects
 Here are a few projects I'm especially proud of:
 
-<!-- - **[Project 1](https://github.com/ShubhamNagda/project1)**: A cutting-edge web app solving [specific problem].
+- **[Project 1](https://github.com/ShubhamNagda/project1)**: A cutting-edge web app solving [specific problem].
 - **[Project 2](https://github.com/ShubhamNagda/project2)**: An open-source library for [specific use case].
 - **[Project 3](https://github.com/ShubhamNagda/project3)**: An AI-powered tool for [specific application]. -->
 
