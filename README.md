@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 Feel free to reach out and connect! I'm always happy to collaborate or discuss exciting ideas.
 
 - **LinkedIn**: [Shubham Nagda](https://linkedin.com/in/shubham-nagda-724b7b234)
-- **Twitter**: [@ShubhamNagda](https://twitter.com/Shubham_menariya01)
+- **Twitter**: [@ShubhamNagda](https://twitter.com/Shubham_Nagda01)
 - **Blog**: [My Tech Blog](https://shubhamnagda.github.dev)
 
 ---
