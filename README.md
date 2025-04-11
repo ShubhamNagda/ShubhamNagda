@@ -1,21 +1,52 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">BCA Student</h3>
+# Hi there, I'm Shubham Nagda 👋
 
-- 👨‍💻 All of my projects are available at [shubham-nagda.pages.dev](shubham-nagda.pages.dev)
+Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast who loves to dive into code, build innovative solutions, and share knowledge with the community.
 
-- 💬 Ask me about **javascript, node js, mongo db**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shubham_nagda01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubham_nagda01" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham_menariya01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_menariya01" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+- 🌟 **Who am I?** A developer who thrives on challenges and loves to explore new technologies.
+- 💼 **What do I do?** I specialize in building scalable web applications, working on open-source projects, and contributing to the tech ecosystem.
+- 🎯 **My Goal?** To solve real-world problems with clean and efficient code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </p>
+---
 
+## 🛠️ Tech Stack
+Here are some of the technologies and tools I work with:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamnagda&show_icons=true&locale=en" alt="shubhamnagda" /></p>
+- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- **Frameworks**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamnagda&" alt="shubhamnagda" /></p>
+---
 
+## 🌐 Connect with Me
+Feel free to reach out and connect! I'm always happy to collaborate or discuss exciting ideas.
+
+- **LinkedIn**: [Shubham Nagda](https://linkedin.com/in/shubham_menariya01)
+- **Twitter**: [@ShubhamNagda](https://twitter.com/Shubham_menariya01)
+- **Blog**: [My Tech Blog](https://shubhamnagda.github.dev)
+
+---
+
+## 🌟 Highlighted Projects
+Here are a few projects I'm especially proud of:
+
+<!-- - **[Project 1](https://github.com/ShubhamNagda/project1)**: A cutting-edge web app solving [specific problem].
+- **[Project 2](https://github.com/ShubhamNagda/project2)**: An open-source library for [specific use case].
+- **[Project 3](https://github.com/ShubhamNagda/project3)**: An AI-powered tool for [specific application]. -->
+
+---
+
+## 📈 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamNagda&show_icons=true&theme=radical)
+
+---
+
+## 💬 Fun Fact
+When I'm not coding, you can find me exploring the outdoors, reading sci-fi novels, or experimenting with new recipes in the kitchen! 🍳
+
+---
+
+Thanks for visiting my profile! 🚀 Feel free to explore my repositories, and don't hesitate to leave a star ⭐ on the projects you like!
