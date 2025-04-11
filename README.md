@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [shubham-nagda.pages.dev](shubham-nagda.pages.dev)
 
-- 💬 Ask me about **cpp, javascript, python, Java**
+- 💬 Ask me about **javascript, node js, mongo db**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
